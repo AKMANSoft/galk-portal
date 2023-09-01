@@ -4,6 +4,21 @@
 
 
 
-html{
+
+html {
     font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+*::-webkit-scrollbar {
+    background: transparent;
+    width: 4px;
+    height: 4px;
+}
+
+*::-webkit-scrollbar-thumb {
+    @apply bg-silver;
+    border-radius: 30px;
 }
