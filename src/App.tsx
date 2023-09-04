@@ -31,7 +31,7 @@ function App() {
         </div>
         <div className="flex items-center gap-4 justify-center">
           <p className="text-white">
-            Welcome,Admin
+            Welcome, Admin
           </p>
           <button>
             <img src="/icons/button.png" alt="" />
